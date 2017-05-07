@@ -17,8 +17,8 @@ In your module [![Download](https://api.bintray.com/packages/florent37/maven/Mat
 compile 'com.github.florent37:materialviewpager:1.2.1'
 
 Lovely Dialog : 
+![alt preview](http://www.mediafire.com/convkey/f12e/ss5v310w34k3lw5zg.jpg?size_id=c)
 
-(http://www.mediafire.com/convkey/f12e/ss5v310w34k3lw5zg.jpg?size_id=c)
 
 Dependency :
 
