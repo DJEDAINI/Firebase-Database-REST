@@ -18,7 +18,7 @@ compile 'com.github.florent37:materialviewpager:1.2.1'
 
 Lovely Dialog : 
 
-(https://www.mediafire.com/?ss5v310w34k3lw5)
+(http://www.mediafire.com/view/ss5v310w34k3lw5/Screenshot_2017-05-07-18-43-56%5B1%5D.png)
 
 Dependency :
 
