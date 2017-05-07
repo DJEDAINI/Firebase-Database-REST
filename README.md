@@ -7,6 +7,7 @@ Firebase-Database-REST
 
 The list of library used in this project : 
 Material Design Viewpager :
+![alt preview](https://raw.github.com/DJEDAINI/Firebase-Database-REST/master/screenshots/Screenshot_2017-05-05-17-54-06[1].png)
 
 (http://www.mediafire.com/convkey/f12e/ss5v310w34k3lw5zg.jpg?size_id=c)
 
@@ -16,7 +17,6 @@ In your module [![Download](https://api.bintray.com/packages/florent37/maven/Mat
 ```groovy
 compile 'com.github.florent37:materialviewpager:1.2.1'
 
-![alt preview](https://raw.github.com/DJEDAINI/Firebase-Database-REST/master/screenshots/Screenshot_2017-05-05-17-54-06[1].png)
 
 
 Dependency :
