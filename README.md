@@ -5,19 +5,10 @@ Firebase-Database-REST
 [![Android Weekly](https://img.shields.io/badge/android--weekly-151-blue.svg)](http://androidweekly.net/issues/issue-151)
 [![CircleCI](https://circleci.com/gh/florent37/MaterialViewPager.svg?style=svg)](https://circleci.com/gh/florent37/MaterialViewPager)
 
-Material Design ViewPager used in this project
+The list of library used in this project : 
+Material Design Viewpager :
 
-[![Build screen](https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png)](http://youtu.be/g6tTDVceM9E)
-
-#Sample
-
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.materialviewpager.sample">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
-
-You can find a sample APK : [Link](https://github.com/florent37/MaterialViewPager/releases/download/1.1.0/sample-release.apk)
-
-And have a look on a sample Youtube Video : [Youtube Link](http://www.youtube.com/watch?v=r95Tt6AS18c)
+(https://www.mediafire.com/?jl3fvc73v22rfo0)
 
 #Download
 
@@ -25,11 +16,13 @@ In your module [![Download](https://api.bintray.com/packages/florent37/maven/Mat
 ```groovy
 compile 'com.github.florent37:materialviewpager:1.2.1'
 
-//dependencies
-compile 'com.flaviofaria:kenburnsview:1.0.7'
-compile 'com.jpardogo.materialtabstrip:library:1.1.0'
-compile 'com.github.bumptech.glide:glide:3.7.0'
-```
+Lovely Dialog : 
+
+(https://www.mediafire.com/?ss5v310w34k3lw5)
+
+Dependency :
+
+compile 'com.yarolegovich:lovely-dialog:1.0.7'
 
 #Usage
 
