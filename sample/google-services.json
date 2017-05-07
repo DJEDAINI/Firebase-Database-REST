@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228955828401",
+    "firebase_url": "https://materialviewpager-master-d4e10.firebaseio.com",
+    "project_id": "materialviewpager-master-d4e10",
+    "storage_bucket": "materialviewpager-master-d4e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228955828401:android:a23d01de03a4afd2",
+        "android_client_info": {
+          "package_name": "com.github.florent37.materialviewpager.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228955828401-m9u0oj3v8nno8rjn4lev1c6p9bdsbeiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.florent37.materialviewpager.sample",
+            "certificate_hash": "c926702f2c4f3e5c12bf931afb2b1a41f16be10d"
+          }
+        },
+        {
+          "client_id": "228955828401-s5ovi7rsuu3v4e748jcav5c16ujog1e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDpY35-E90nGI2cHXjsPaDY0CIhG0XOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228955828401-s5ovi7rsuu3v4e748jcav5c16ujog1e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
